@@ -13,9 +13,10 @@ I'm a Saint Louis native, traveling across the United States in search of someth
 - Security and [Capture the Flag](https://hackthebox/com)
 - Enhancing my [Shell Experience](https://github.com/sf1tzp/.files)
 - Mapping my World with [Obsidian](https://obsidian.md)
+- [Keyboards](https://reddit.com/r/mechanicalkeyboards) and Electronics
 
 ## 🌍 But Also
-- Music (Drums, Bass, Drum and Bass)
+- Music (Drums, Bass, Drum and Bass, and more)
 - Exploring in Cities and in Nature
 - Mountain Biking
 - Auto Racing (Especially Hillclimb and Rally)
