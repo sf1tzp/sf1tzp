@@ -21,7 +21,7 @@ I'm a Saint Louis native, traveling across the United States in search of someth
 - Auto Racing (Especially Hillclimb and Rally)
 
 ## 📫 Find me online
-[twitter](https://twitter.com/StevTheDev) [reddit](https://www.reddit.com/user/___-____--_____-____) [lemmy](https://programming.dev/u/sf1tzp) [instagram](https://www.instagram.com/sf1tzp/)
+[reddit](https://www.reddit.com/user/___-____--_____-____) [lemmy](https://programming.dev/u/sf1tzp) [instagram](https://www.instagram.com/sf1tzp/) [twitter](https://twitter.com/StevTheDev) [github (retired)](https://github.com/stevthedev)
 
 <!---
 sf1tzp/sf1tzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
