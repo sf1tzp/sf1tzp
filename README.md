@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Steven @f1tzpatrick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👉 Hello World
+I’m Steven. Currently building [Azure Operator Nexus](https://azure.microsoft.com/en-us/products/operator-nexus/), a hybrid cloud offering from Microsoft. See more at [linkedin](https://www.linkedin.com/in/stevthedev/).
+
+I'm a Saint Louis native, traveling across the United States in search of something new.
+
+## 🔧 What’s in My Toolkit
+- Main Languages: Go, Bash, Python, and [recently Rust 🦀](https://github.com/sf1tzp/advent-of-code-2022)
+- Infrastructure: Kubernetes Ecosystem and Microsoft Azure
+- Systems Admin: Linux and Windows AAD. I'm OS Agnostic 😎
+
+## 👀 I’m Interested In
+- Computer Programming
+- Security and [Capture the Flag](https://hackthebox/com)
+- Enhancing my [Shell Experience](https://github.com/sf1tzp/.files)
+- Mapping my World with [Obsidian](https://obsidian.md)
+
+## 🌍 But Also
+- Music (Drums, Bass, Drum and Bass)
+- Exploring in Cities and in Nature
+- Mountain Biking
+- Auto Racing (Especially Hillclimb and Rally)
+
+## 📫 Find me online
+[twitter](https://twitter.com/StevTheDev) [reddit](https://www.reddit.com/user/___-____--_____-____) [lemmy](https://programming.dev/u/sf1tzp) [instagram](https://www.instagram.com/sf1tzp/)
 
 <!---
-f1tzpatrick/f1tzpatrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sf1tzp/sf1tzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
