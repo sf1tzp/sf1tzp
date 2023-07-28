@@ -4,9 +4,9 @@ I’m Steven. Currently building [Azure Operator Nexus](https://azure.microsoft.
 I'm a Saint Louis native, traveling across the United States in search of something new.
 
 ## 🔧 What’s in My Toolkit
-- Main Languages: Go, Bash, Python, and [recently Rust 🦀](https://github.com/sf1tzp/advent-of-code-2022)
+- Languages: Go, Bash, Python, and [recently Rust 🦀](https://github.com/sf1tzp/advent-of-code-2022)
 - Infrastructure: Kubernetes Ecosystem and Microsoft Azure
-- Systems Admin: Linux and Windows AAD. I'm OS Agnostic 😎
+- Admin: Linux and Windows AAD. I'm OS Agnostic
 
 ## 👀 I’m Interested In
 - Computer Programming
@@ -22,7 +22,7 @@ I'm a Saint Louis native, traveling across the United States in search of someth
 - Auto Racing (Especially Hillclimb and Rally)
 
 ## 📫 Find me online
-[reddit](https://www.reddit.com/user/___-____--_____-____) [lemmy](https://programming.dev/u/sf1tzp) [instagram](https://www.instagram.com/sf1tzp/) [twitter](https://twitter.com/StevTheDev) [github (retired)](https://github.com/stevthedev)
+[lemmy](https://programming.dev/u/sf1tzp) [instagram](https://www.instagram.com/sf1tzp/) [reddit](https://www.reddit.com/user/___-____--_____-____) [twitter](https://twitter.com/StevTheDev) [github (retired)](https://github.com/stevthedev)
 
 <!---
 sf1tzp/sf1tzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
