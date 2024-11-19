@@ -1,30 +1,20 @@
-# 👉 Hello World
-I’m Steven. Currently building [Azure Operator Nexus](https://azure.microsoft.com/en-us/products/operator-nexus/), a hybrid cloud offering from Microsoft. See more at [linkedin](https://www.linkedin.com/in/stevthedev/).
+#  Hey 👋
 
-I'm a Saint Louis native, traveling across the United States in search of something new.
+I’m Steven.
 
-## 🔧 What’s in My Toolkit
-- Languages: Go, Bash, Python, and [recently Rust 🦀](https://github.com/sf1tzp/advent-of-code-2022)
-- Infrastructure: Kubernetes Ecosystem and Microsoft Azure
-- Admin: Linux and Windows AAD. I'm OS Agnostic
+## 🔧 Past Experience
 
-## 👀 I’m Interested In
-- Computer Programming
-- Security and [Capture the Flag](https://hackthebox/com)
-- Enhancing my [Shell Experience](https://github.com/sf1tzp/.files)
-- Mapping my World with [Obsidian](https://obsidian.md)
-- [Keyboards](https://reddit.com/r/mechanicalkeyboards) and Electronics
+### VM and K8s Infrastructure @ AT&T and Microsoft (2019 - 2024)
+- Software Engineering / DevSecOps / SRE
 
-## 🌍 But Also
-- Music (Drums, Bass, Drum and Bass, and more)
-- Exploring in Cities and in Nature
-- Mountain Biking
-- Auto Racing (Especially Hillclimb and Rally)
+Beginning in 2019, I worked with various teams across AT&T's 'Network Cloud' platform, through its acquisition by Microsoft in 2021, until November 2024. I had hands-on experience building and operating this platform as it evolved from serving Virtual Machines on OpenStack to a fully managed Kubernetes service leveraging Cluster API.
+
+I have experience with a wide range of cloud-native technologies and practices; our team was responsible 'end-to-end' for the baremetal provisioning services. As an engineer on the team, I:
+- Contributed to several different codebases in Go, Rust, and Bash.
+- Maintained Linux configurations in code.
+- Maintained CICD and the software supply chain.
+- Refined observability code, built dashboards, and defined alert conditions.
+- Responded to pages, led mitigation efforts, conducted post-incident reviews, and delivered documentation and bug fixes as necessary.
 
 ## 📫 Find me online
-[lemmy](https://programming.dev/u/sf1tzp) [instagram](https://www.instagram.com/sf1tzp/) [reddit](https://www.reddit.com/user/___-____--_____-____) [twitter](https://twitter.com/StevTheDev) [github (retired)](https://github.com/stevthedev)
-
-<!---
-sf1tzp/sf1tzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[linkedin](https://www.linkedin.com/in/stevthedev/) | [instagram](https://www.instagram.com/sf1tzp/) 
