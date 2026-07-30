@@ -16,7 +16,7 @@ Why read every filing? [https://symbology.online](https://symbology.online)
 
 ## PrimeTime - Your time, dimensioned.
 
-PrimeTime is a menu-bar time tracker that marks and divides your time exactly how you want. Label every span with key: value dimensions, then query where the day actually went — right from your Mac, no account necessary.
+PrimeTime is a menu-bar time tracker inspired by Prometheus Metrics. Label every span with key: value dimensions, then query where the day actually went — right from your Mac, no account necessary.
 
 [https://primetime.tools/](https://primetime.tools/)
 
