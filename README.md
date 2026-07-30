@@ -4,6 +4,8 @@ Don't let the quiet contribution graph fool you — since early 2026 I've been d
 
 ## Streetfortress Industries LLC. Cloud Infrastructure Consultants
 
+We design and build cloud infrastructure — Kubernetes platforms, observability systems, deployment pipelines, and the operational foundations that keep production running. Our work draws on deep experience in Linux, container orchestration, networking, and security, with a focus on systems that are simple enough to operate long after our engagement ends.
+
 [streetfortress.com](https://streetfortress.com)
 
 ## Symbology - Independent SEC Filing Intelligence
