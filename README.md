@@ -21,4 +21,4 @@ PrimeTime is a menu-bar time tracker inspired by Prometheus Metrics. Label every
 [https://primetime.tools/](https://primetime.tools/)
 
 ## 📫 Find me online
-[linkedin](https://www.linkedin.com/in/stevthedev/) | [instagram](https://www.instagram.com/sf1tzp/) 
+[linkedin](https://www.linkedin.com/in/sf1tzp/) | [instagram](https://www.instagram.com/sf1tzp/) 
