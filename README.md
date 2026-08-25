@@ -14,11 +14,11 @@ Every quarter, thousands of public companies file disclosures with the SEC. Symb
 
 Why read every filing? [https://symbology.online](https://symbology.online)
 
-## PrimeTime - Your time, dimensioned.
+## Moment Tally - Mark the moments of your day and see where the effort goes.
 
-PrimeTime is a menu-bar time tracker inspired by Prometheus Metrics. Label every span with key: value dimensions, then query where the day actually went — right from your Mac, no account necessary.
+Moment Tally is a menu-bar time tracker inspired by Prometheus Metrics. Label every span with key: value dimensions, then query where the day actually went — right from your Mac, no account necessary.
 
-[https://primetime.tools/](https://primetime.tools/)
+[https://moment-tally.com/](https://moment-tally.com/)
 
 ## 📫 Find me online
-[linkedin](https://www.linkedin.com/in/sf1tzp/) | [instagram](https://www.instagram.com/sf1tzp/) 
+[linkedin](https://www.linkedin.com/in/sf1tzp/) | [instagram](https://www.instagram.com/sf1tzp/) | [reddit](https://reddit.com/u/sf1tzp)
