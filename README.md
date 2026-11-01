@@ -1,24 +1,28 @@
-## Hi, I'm Steven
+<p align="center"><strong> Try out <a href="https://github.com/streetfortress/forts"> Forts!</a>: A framework for building strong GitOps environments, by <em>S.F.I</em></strong></p>
 
 Don't let the quiet contribution graph fool you — since early 2026 I've been developing on my own infrastructure and mirroring the public parts here. 🏎️
 
-## Streetfortress Industries LLC. Cloud Infrastructure Consultants
+## Forts! by _Streetfortress Industries_
 
-We design and build cloud infrastructure — Kubernetes platforms, observability systems, deployment pipelines, and the operational foundations that keep production running. Our work draws on deep experience in Linux, container orchestration, networking, and security, with a focus on systems that are simple enough to operate long after our engagement ends.
+> Reach _declarative zen_ with pure GitOps environments designed for edge and hybrid cloud scenarios.
 
-[streetfortress.com](https://streetfortress.com)
+Check out [Forts on GitHub](https://streetfortress.com). The next time you want to try out a new VM or homelab experiment, I would love it if you tried out forts!
 
-## Symbology - Independent SEC Filing Intelligence
+## Symbology - _Local-first Diff Synthesis_
 
 Every quarter, thousands of public companies file disclosures with the SEC. Symbology retrieves them and synthesizes readable prose from those large bodies of source documents — surfacing what's actually changed, quarter by quarter, year by year, across the companies you care about.
 
-Why read every filing? [https://symbology.online](https://symbology.online)
+[symbology.online](https://symbology.online)
 
-## Moment Tally - Mark the moments of your day and see where the effort goes.
+## Moment Tally - _Mark the moments of your day_
 
 Moment Tally is a menu-bar time tracker inspired by Prometheus Metrics. Label every span with key: value dimensions, then query where the day actually went — right from your Mac, no account necessary.
 
-[https://moment-tally.com/](https://moment-tally.com/)
+Get Moment Tally for MacOS - Free on [GitHub](https://github.com/sf1tzp/moment-tally)
 
 ## 📫 Find me online
 [linkedin](https://www.linkedin.com/in/sf1tzp/) | [instagram](https://www.instagram.com/sf1tzp/) | [reddit](https://reddit.com/u/sf1tzp)
+
+### Available for Consultation
+
+I've spent years building private cloud infrastructure —  App platforms, observability systems, deployment pipelines, and would love to help you build a **strong operational foundation** to keep production running. My work draws on deep experience in Linux, container orchestration, networking, and security, with a focus on systems that are simple enough to operate long after our engagement ends.
