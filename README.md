@@ -6,7 +6,9 @@ Hello 👋 Don't let the quiet contribution graph fool you — since early 2026 
 
 > Reach _declarative zen_ with pure GitOps environments designed for edge and hybrid cloud scenarios.
 
-Check out [Forts!](https://github.com/streetfortress/forts) on Github the next time you want to spin up a a VM experiment or test environment.
+What if EVERYTHING lived in git? Keep the ergonomics of kubernetes while maintaining full control over the host OS. Provision isolated environments with ease and establish a secure foundation for your app or service.
+
+Check out Forts! on [Github](https://github.com/streetfortress/forts).
 
 ## Symbology - _Local-first Diff Synthesis_
 
