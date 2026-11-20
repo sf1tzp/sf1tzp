@@ -1,5 +1,7 @@
 <p align="center"><strong> Try out <a href="https://github.com/streetfortress/forts"> Forts!</a>: A framework for building strong GitOps environments, by <em>S.F.I</em></strong></p>
 
+Hello 👋
+
 Don't let the quiet contribution graph fool you — since early 2026 I've been developing on my own infrastructure and mirroring the public parts here. 🏎️
 
 ## Forts! by _Streetfortress Industries_
