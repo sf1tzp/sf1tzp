@@ -6,7 +6,7 @@ Hello 👋 Don't let the quiet contribution graph fool you — since early 2026 
 
 > Reach _declarative zen_ with pure GitOps environments designed for edge and hybrid cloud scenarios.
 
-Check out [Forts!](https://github.com/streetfortress/forts) today!
+Check out [Forts!](https://github.com/streetfortress/forts) on Github the next time you want to spin up a a VM experiment or test environment.
 
 ## Symbology - _Local-first Diff Synthesis_
 
